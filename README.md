@@ -17,6 +17,10 @@ Other examples in python that show how to use a Websocket are available here:
 
 https://www.youtube.com/watch?v=8STSUsXRBhE&t=373s
 
+and here:
+
+https://git.sr.ht/~dcrck/alphahub-listener
+
 Thank you to be an active and productive member of our community !
 
 The AlphaHub Team  
