@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=8STSUsXRBhE&t=373s
 
 Thank you to be an active and productive member of our community !
 
-AlphaHub Team  
+The AlphaHub Team  
 
 
 
