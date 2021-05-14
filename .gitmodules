@@ -1,0 +1,3 @@
+[submodule "python-alphahub"]
+	path = python-alphahub
+	url = https://github.com/timolson/alphahub
