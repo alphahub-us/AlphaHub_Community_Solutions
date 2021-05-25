@@ -1,11 +1,18 @@
 # AlphaHub Community Solutions
 
-Source code for AlphaHub Trader:
+Source code for AlphaHub Automated Traders:
 
-https://alphahub.us/
+https://github.com/alphahub-us/AlphaHub_Community_Solutions
 
-These files are AlphaHub Community Solutions to execute using different brokers the signals from the AlphaHub platform. 
-AlphaHub members developed their own versions of Traders besides the one that AlphaHub provides for free to our members, see https://github.com/gsantostasi/AlphaHubTrader.
+We share with the community the algorithm Xylem that our R&D company Quantonomy uses every day to do his own internal trading:
+
+https://github.com/alphahub-us/xylem/tree/589202bd3b0cd72fdcae69720ceb6660a884a3c8
+
+We used this algo consistently since July 2020 with about 98 % reliability. You are welcome to use it yourself and follow the same type of trades the company executes (using your favorite AlphaHub signal). 
+
+The other files in this repository are AlphaHub Community Solutions to execute, using different brokers, the signals from the AlphaHub platform. 
+AlphaHub members developed their own versions of automated Traders besides the one that AlphaHub provides for free to our members, see https://github.com/gsantostasi/AlphaHubTrader.
+
 These are Traders created in different languages and support different brokers. 
 
 AlphaHub doesn't test these Community contributions but members have used them successfully for some time before posting them here. Please go through the codes if you are a programmer and improve them (we can then post your improved version) and/or test them on paper trading (if you are a member trader) for some time yourself before launching them with real accounts. In general use them with cautions. AlphaHub doesn't take responsibility for these Community codes but you can report bugs to email address listed below. 
