@@ -1,4 +1,4 @@
-# AlphaHub-Trader-source-code
+# AlphaHub Community Solutions
 
 Source code for AlphaHub Trader:
 
