@@ -4,3 +4,6 @@
 [submodule "alphahub-execution-engine"]
 	path = alphahub-execution-engine
 	url = https://github.com/alphahub-us/xylem.git
+[submodule "python-listener"]
+	path = python-listener
+	url = https://github.com/alphahub-us/python-listener
