@@ -1,3 +1,6 @@
 [submodule "python-alphahub"]
 	path = python-alphahub
 	url = https://github.com/timolson/alphahub
+[submodule "alphahub-execution-engine"]
+	path = alphahub-execution-engine
+	url = https://github.com/alphahub-us/xylem.git
