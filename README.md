@@ -28,6 +28,10 @@ and here:
 
 https://git.sr.ht/~dcrck/alphahub-listener
 
+SLIPPAGE REDUCTION ALGOS:
+
+Stay tuned for documentation and video material. 
+
 Thank you to be an active and productive member of our community !
 
 The AlphaHub Team  
